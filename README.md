@@ -1,1 +1,1 @@
-# DiabetesFinal
+# Machine Learning Project
